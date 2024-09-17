@@ -1,0 +1,1 @@
+The next line, size = len(f1.read()) , reads the entire contents of the file 'ABC.txt', returning a string containing the file's contents. 
